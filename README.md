@@ -53,7 +53,7 @@ Recifeirinha conecta diretamente artesãos locais a consumidores que buscam prod
 git clone https://github.com/chxvxxs/recifeirinha-front.git
 
 # Acesse a pasta
-cd recifeirinha-front
+cd recifeirinha-pfe
 
 # Instale as dependências
 npm install --legacy-peer-deps
