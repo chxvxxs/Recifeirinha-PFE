@@ -42,7 +42,7 @@ Recifeirinha conecta diretamente artesãos locais a consumidores que buscam prod
 - Frontend hospedado na Vercel [https://recifeirinha-pfe.vercel.app/]
 - Deploy contínuo com integração via Git
 - CDN global e SSL automático
-- Provável uso de frameworks modernos como Next.js e Tailwind CSS (baseado na estrutura e performance observada)
+- Uso de frameworks modernos como Next.js e Tailwind CSS.
 
 ---
 
